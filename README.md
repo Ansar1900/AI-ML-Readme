@@ -1,4 +1,3 @@
-# AI-ML-Readme
 # AI / ML Journey
 
 This repository documents my learning journey towards building a career in
